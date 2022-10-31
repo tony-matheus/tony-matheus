@@ -1,11 +1,8 @@
-### Hi there, I'm Tony 👋 
+### Hi there, I'm Tony 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+## I'm a Husband, Developer, and Valorant Player!!
 
-## I'm a Husband, Developer, and LoL Player!!
-
-- 🔭 I'm a Frontend Developer at ESL Library
+- 🔭 I'm a Frontend Engineer at ESL Library
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Contribute more to Open Source projects and Improve my FE skills
 - ⚡ Fun fact: I love to pokemon and beers 🍻 
