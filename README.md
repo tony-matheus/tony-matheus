@@ -10,7 +10,6 @@
 ### Connect with me:
 
 [<img align="left" alt="tony-matheus | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
-[<img align="left" alt="tony-matheus | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -26,4 +25,3 @@
 <br />
 
 
-[linkedin]: https://www.linkedin.com/in/tony-lima-55909313b/
