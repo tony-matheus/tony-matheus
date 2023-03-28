@@ -26,7 +26,4 @@
 <br />
 
 
-[<img align="left" src="https://github-readme-stats.vercel.app/api?username=tony-matheus&show_icons=true&theme=dracula&hide_border=true" alt="Thais Stats" width="40%" /> ](https://github.com/tony-matheus)
-
-
 [linkedin]: https://www.linkedin.com/in/tony-lima-55909313b/
