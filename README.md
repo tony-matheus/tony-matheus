@@ -3,9 +3,8 @@
 ## I'm a Husband, Developer, and Valorant Player!!
 
 - 🔭 I'm a Frontend Engineer at Red River Press
-- 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: Contribute more to Open Source projects and Improve my FE skills
-- ⚡ Fun fact: I love to pokemon and beers 🍻 
+- 🧙‍♂️ Git Wizard
 
 
 ### Languages and Tools:
