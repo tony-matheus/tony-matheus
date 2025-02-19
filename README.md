@@ -3,5 +3,5 @@
 ## I'm a Husband, Developer, and Valorant Player!!
 
 - 🔭 I'm a Frontend Engineer at Ellii (Formerly ESL Library)
-- 🥅 2024 Goals: Contribute more to Open Source projects and Improve my FE skills
+- 🥅 2025 Goals: Contribute more to Open Source projects and Improve my FE skills
 - 🧙‍♂️ Git Wizard
